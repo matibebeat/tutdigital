@@ -1,0 +1,7 @@
+v 4
+file . "myaddnbits.vhd" "23871d1bf430e03f233c8e3f51cc4e69fc6a2ee5" "20240304141723.351":
+  entity addnbits at 3( 26) + 0 on 23;
+  architecture addnbits_dataflow of addnbits at 37( 379) + 0 on 24;
+file . "mytbaddnbits.vhd" "37866f1f9a42cbe1a57f1cf68deeb8daddad3d1c" "20240304141723.355":
+  entity myaddnbitstestbench at 2( 28) + 0 on 25;
+  architecture myaddnbitstestbench_arch of myaddnbitstestbench at 12( 273) + 0 on 26;

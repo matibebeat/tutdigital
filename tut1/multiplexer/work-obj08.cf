@@ -1,0 +1,7 @@
+v 4
+file . "tbmultiplexer.vhd" "d2ba2388ad75e4e7fb7e233a03fe51f346088498" "20240311080025.523":
+  entity mymuxnbits2vers1testbench at 3( 29) + 0 on 13;
+  architecture mymuxnbits2vers1testbench_arch of mymuxnbits2vers1testbench at 21( 262) + 0 on 14;
+file . "multiplexer.vhd" "43e8199567c259547e5813bf66f0eba562896863" "20240311080025.517":
+  entity muxnbits2vers1 at 3( 26) + 0 on 11;
+  architecture muxnbits2vers1_dataflow of muxnbits2vers1 at 33( 335) + 0 on 12;

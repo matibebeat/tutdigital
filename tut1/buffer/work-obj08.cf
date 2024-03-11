@@ -1,0 +1,7 @@
+v 4
+file . "mybuffernbits.vhd" "f62f53fd2d931b6e985d266fd50f8da4403084e7" "20240311102447.837":
+  entity buffernbits at 2( 25) + 0 on 15;
+  architecture buffernbits_arch of buffernbits at 18( 323) + 0 on 16;
+file . "mytbbuffernbits.vhd" "9a88f9a5a0e56b0b28402385996a034aea8fe0d2" "20240311102447.846":
+  entity mytbbuffernbits at 3( 29) + 0 on 17;
+  architecture mytbbuffernbits_arch of mytbbuffernbits at 23( 276) + 0 on 18;

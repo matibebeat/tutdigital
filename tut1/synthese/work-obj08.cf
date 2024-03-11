@@ -1,0 +1,7 @@
+v 4
+file . "mytbsynthcomb01.vhd" "0cd8387a24b13a458266d53df78ad657517996eb" "20240311094150.883":
+  entity mysynthcomb01testbench at 3( 29) + 0 on 13;
+  architecture mysynthcomb01testbench_arch of mysynthcomb01testbench at 23( 290) + 0 on 14;
+file . "mysynthcomb01.vhd" "3fcbf28c2e767b984727cc30ce5f2bc4e45da654" "20240311094150.875":
+  entity synthcomb01 at 1( 0) + 0 on 11;
+  architecture synthcomb01_arch of synthcomb01 at 18( 313) + 0 on 12;

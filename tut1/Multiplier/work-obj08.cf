@@ -1,0 +1,7 @@
+v 4
+file . "mytbmultnbits.vhd" "267f6c6fe6d5213df0bdfa7300d27f27a38cbb99" "20240304143856.672":
+  entity mymultnbitstestbench at 1( 0) + 0 on 29;
+  architecture mymultnbitstestbench_arch of mymultnbitstestbench at 8( 128) + 0 on 30;
+file . "mymultnbits.vhd" "9d5016a378074165745a014ff623cb5cd6294c69" "20240304143856.670":
+  entity multnbits at 1( 0) + 0 on 27;
+  architecture multnbits_dataflow of multnbits at 16( 441) + 0 on 28;
