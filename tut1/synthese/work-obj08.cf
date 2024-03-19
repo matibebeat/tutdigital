@@ -1,7 +1,16 @@
 v 4
-file . "mytbsynthcomb01.vhd" "0cd8387a24b13a458266d53df78ad657517996eb" "20240311094150.883":
-  entity mysynthcomb01testbench at 3( 29) + 0 on 13;
-  architecture mysynthcomb01testbench_arch of mysynthcomb01testbench at 23( 290) + 0 on 14;
-file . "mysynthcomb01.vhd" "3fcbf28c2e767b984727cc30ce5f2bc4e45da654" "20240311094150.875":
-  entity synthcomb01 at 1( 0) + 0 on 11;
-  architecture synthcomb01_arch of synthcomb01 at 18( 313) + 0 on 12;
+file . "mysynthcomb01.vhd" "3fcbf28c2e767b984727cc30ce5f2bc4e45da654" "20240312090011.896":
+  entity synthcomb01 at 1( 0) + 0 on 31;
+  architecture synthcomb01_arch of synthcomb01 at 18( 313) + 0 on 32;
+file . "multNbits.vhd" "9d5016a378074165745a014ff623cb5cd6294c69" "20240312090011.892":
+  entity multnbits at 1( 0) + 0 on 25;
+  architecture multnbits_dataflow of multnbits at 16( 441) + 0 on 26;
+file . "myaddnbits.vhd" "23871d1bf430e03f233c8e3f51cc4e69fc6a2ee5" "20240312090011.895":
+  entity addnbits at 3( 26) + 0 on 27;
+  architecture addnbits_dataflow of addnbits at 37( 379) + 0 on 28;
+file . "mymuxNbits2vers1.vhd" "43e8199567c259547e5813bf66f0eba562896863" "20240312090011.896":
+  entity muxnbits2vers1 at 3( 26) + 0 on 29;
+  architecture muxnbits2vers1_dataflow of muxnbits2vers1 at 33( 335) + 0 on 30;
+file . "mysynthcomb01testbench.vhd" "2e27d7990509ac5c96e039ebd733da5ef6fbf2b2" "20240312090011.904":
+  entity mysynthcomb01testbench at 3( 29) + 0 on 33;
+  architecture mysynthcomb01testbench_arch of mysynthcomb01testbench at 23( 290) + 0 on 34;
