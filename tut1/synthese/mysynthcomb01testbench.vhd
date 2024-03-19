@@ -54,7 +54,7 @@ architecture mysynthcomb01testbench_Arch of mysynthcomb01testbench is
 
 	-- Déclaration de la constante pour le paramètre générique (non obligatoire)
 
-    constant N : integer := 1;
+    constant N : integer := 4;
 
     
 

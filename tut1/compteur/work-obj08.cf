@@ -1,0 +1,7 @@
+v 4
+file . "mycompdecompnbits.vhd" "bb9459aec7c7915bfeb7e5bf50e53ac62fc2847b" "20240312093437.326":
+  entity comptdecompnbits at 3( 26) + 0 on 15;
+  architecture comptdecompnbits_arch of comptdecompnbits at 21( 346) + 0 on 16;
+file . "mytbcompdecompnbits_SA.vhd" "69ff5738b398306260e33619583442661e52eb5a" "20240312093437.327":
+  entity mycomptdecompnbitstestbench at 2( 28) + 0 on 17;
+  architecture mycomptdecompnbitstestbench_arch of mycomptdecompnbitstestbench at 7( 227) + 0 on 18;

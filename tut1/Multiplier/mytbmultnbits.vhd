@@ -17,7 +17,7 @@ architecture myMultNbitstestbench_Arch of myMultNbitstestbench is
         );
     end component;
 
-    constant N : integer := 3;
+    constant N : integer := 4;
  
     signal e1_sim, e2_sim  : std_logic_vector(N-1 downto 0) := (others => '0');
     signal s1_sim : std_logic_vector(2*N-1 downto 0) := (others => '0');
